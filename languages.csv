@@ -1,0 +1,101 @@
+txt_id;widgetid;active;translatable;nativeapptext;English;Português
+ISO 639-1;;;;;en;pt
+TXT001;lblTitle;y;n;OSM CSV Appender;OSM CSV Appender;OSM CSV Appender
+TXT002;lblOSMFile;y;y;OSM File;OSM File;Arquivo OSM
+TXT003;pshbtnSelOSMf;y;y;Select OSM File;Select OSM File;Selec. Arq. OSM
+TXT004;gbOSMFilters;y;y;Filters (Optional);Filters (Optional);Filtros (opcional)
+TXT005;lblSelectGeomTypes;y;y;Select geometry type(s):;Select geometry type(s):;Selec. tipos de geometrias:
+TXT006;chkbxAllGeom;y;y;All geometries;All geometries;Todas as geometrias
+TXT007;lblTags2match;y;y;Tags have to match all:;Tags have to match all:;Etiquetas tem que ter:
+TXT008;lblCSVFile;y;y;CSV File;CSV File;Arquivo CSV
+TXT009;pshbtnSelCSVf;y;y;Select CSV File;Select CSV File;Selec. Arq. CSV
+TXT010;gbCSV;y;y;Parameters;Parameters;Parâmetros
+TXT011;pshbtnChangeParam;y;y;Change parameters;Change parameters;Mudar parâmetros
+TXT012;lblDelimiter;y;y;Delimiter:;Delimiter:;Delimit. campo:
+TXT013;lblQtchar;y;y;Quote char:;Quote char:;Delimit. texto:
+TXT014;lblJoinby;y;y;Join CSV to OSM by:;Join CSV to OSM by:;Unir CSV ao OSM via:
+TXT015;rdbtGeomid;y;y;Geometry id;Geometry id;Id da geometria
+TXT016;rdbtField;y;y;Field;Field;Campo
+TXT017;pshbtnTestCSV;y;y;Test CSV and load fields;Test CSV and load fields;Testar CSV e carregar campos
+TXT018;lblFieds2Import;y;y;Fields to import:;Fields to import:;Campos p/ importar
+TXT019;chkbxAllFields;y;y;All fields;All fields;Todos campos
+TXT020;gbReady2go;y;y;Output configuration;Output configuration;Configurações de saída
+TXT021;pshbtnFindFolder;y;y;Select output folder;Select output folder;Selec. pasta de saída
+TXT022;lblOvrQuestion;y;y;What to do when OSM File already has the same CSV File field to be imported?;What to do when OSM File already has the same CSV File field to be imported?;O que fazer quando o arquivo OSM já tem o campo a ser importado do CSV?
+TXT023;rdbtnKeep;y;y;Keep values from OSM File;Keep values from OSM File;Manter valores do arquivo OSM
+TXT024;rdbtnOvwr;y;y;Overwrite with values from CSV File;Overwrite with values from CSV File;Sobrescrever com valores do arquivo CSV
+TXT025;lblLanguage;y;y;Language:;Language:;Idioma:
+TXT026;lblWikiOSM;y;y;"For full information visit<br/><a href=""https://wiki.openstreetmap.org/wiki/OSM_CSV_Appender"">OSM CSV Appender</a><br/>on OSM Wiki";"For full information visit<br/><a href=""https://wiki.openstreetmap.org/wiki/OSM_CSV_Appender"">OSM CSV Appender</a><br/>on OSM Wiki";"Para informação completa visite<br/><a href=""https://wiki.openstreetmap.org/wiki/OSM_CSV_Appender"">OSM CSV Appender</a><br/>na Wiki do OSM"
+TXT027;lblDevby;y;y;"Developed by <a href=""https://www.openstreetmap.org/user/santamariense"">santamariense</a>";"Developed by <a href=""https://www.openstreetmap.org/user/santamariense"">santamariense</a>";"Desenvolvido por <a href=""https://www.openstreetmap.org/user/santamariense"">santamariense</a> "
+TXT028;lblLicense;y;y;GNU General Public License;GNU General Public License;Licença GNU General Public
+TXT029;lblVersion;y;y;Version 1.0 - July, 2019;Version 1.0 - July, 2019;Versão 1.0 – Julho, 2019
+TXT030;lblCSVFileErrors;y;y;Some errors find in CSV File;Some errors find in CSV File;Erro(s) foram encontrados no CSV
+TXT031;pshbtnDismiss;y;y;I got it!;I got it!;Entendi!
+TXT032;lblReady;y;y;OSM CSV Appender - Results;OSM CSV Appender - Results;OSM CSV Appender – Resultados
+TXT033;lblAppending;y;y;Appending files and creating logs and statistics...;Appending files and creating logs and statistics...;Anexando arquivos e criando log e estatística
+TXT034;lblFileList;y;y;List of generated files:;List of generated files:;Lista de arquivos gerados:
+TXT035;lblTrackErrors;y;y;"<html><head/><body><p align=""center"">Use the hashtag <span style="" font-weight:600; color:#0000ff;"">#osmcsvappender</span> on submiting the changeset</p><p align=""center"">to help us to track application usage and possible errors.</p></body></html>";"<html><head/><body><p align=""center"">Use the hashtag <span style="" font-weight:600; color:#0000ff;"">#osmcsvappender</span> on submiting the changeset</p><p align=""center"">to help us to track application usage and possible errors.</p></body></html>";"<html><head/><body><p align=""center"">Use a hashtag <span style="" font-weight:600; color:#0000ff;"">#osmcsvappender</span> ao enviar o conjunto de modificações</p><p align=""center"">para nos ajudar a rastrear uso da aplicação e possíveis erros.</p></body></html>"
+TXT036;pshbtnUseAgain;y;y;Use application again;Use application again;Usar aplicação novamente
+TXT037;pshbtnClose;y;y;Close application;Close application;Fechar aplicação
+TXT038;lblfeedb;y;y;"<html><head/><body><p>For feedback and full information, access <a href=""https://wiki.osm.org/wiki/OSM_CSV_Appender""><span style="" text-decoration: underline; color:#0000ff;"">wiki.osm.org/wiki/OSM_CSV_Appender</span></a>.</p></body></html>";"<html><head/><body><p>For feedback and full information, access <a href=""https://wiki.osm.org/wiki/OSM_CSV_Appender""><span style="" text-decoration: underline; color:#0000ff;"">wiki.osm.org/wiki/OSM_CSV_Appender</span></a>.</p></body></html>";"<html><head/><body><p>Para feedback e informação completa, acesse <a href=""https://wiki.osm.org/wiki/OSM_CSV_Appender""><span style="" text-decoration: underline; color:#0000ff;"">wiki.osm.org/wiki/OSM_CSV_Appender</span></a>.</p></body></html>"
+TXT039;pshbtnAppend;y;y;Append CSV to OSM File;Append CSV to OSM File;Anexar dados do CSV ao OSM
+TXT040;-;y;y; objects modified: (; objects modified: (; objetos modificados: (
+TXT041;-;y;y; nodes, ; nodes, ; nodes, 
+TXT042;-;y;y; ways and ; ways and ; ways e 
+TXT043;-;y;y; relations); relations); relations)
+TXT044;-;y;y;Overwrite with CSV file values;Overwrite with CSV file values;Sobrescrever com valores do arquivo CSV
+TXT045;-;y;y;Keep original values in OSM file;Keep original values in OSM file;Manter valores originais do arquivo OSM
+TXT046;-;y;y;"""Object ID on OSM""";"""Object ID on OSM""";"""ID do objeto no OSM"""
+TXT047;-;y;y;OSM CSV Appender usage LOG FILE;OSM CSV Appender usage LOG FILE;Arquivo LOG de uso do OSM CSV Appender
+TXT048;-;y;y;Input information...;Input information...;Informação de entrada…
+TXT049;-;y;y;OSM File: ;OSM File: ;Arquivo OSM: 
+TXT050;-;y;y;CSV File: ;CSV File: ;Arquivo CSV: 
+TXT051;-;y;y;Settings and variables...;Settings and variables...;Configurações e variáveis…
+TXT052;-;y;y;CSV delimiter: ;CSV delimiter: ;Delimitador de campo CSV: 
+TXT053;-;y;y;CSV quote char: ;CSV quote char: ;Delimitador de texto CSV: 
+TXT054;-;y;y;Selected geometries: ;Selected geometries: ;Geometrias selecionadas: 
+TXT055;-;y;y;Selected geometries in OSM file need to match the following tags: ;Selected geometries in OSM file need to match the following tags: ;As geometrias selecionadas no arquivo OSM precisam ter as seguintes tags/etiquetas: 
+TXT056;-;y;y;Selected keys/fields to be imported from CSV file: ;Selected keys/fields to be imported from CSV file: ;Chaves/campos selecionados para serem importados do arquivo CSV: 
+TXT057;-;y;y;Selected key/field to be used as primary key to join files data: ;Selected key/field to be used as primary key to join files data: ;Chave/campo selecionado para ser usado como chave primária  para juntar dados dos arquivos: 
+TXT058;-;y;y;Selected option in case of confliting keys/fields between files: ;Selected option in case of confliting keys/fields between files: ;Opção selecionada em caso de conflito de chaves/campos entre os arquivos: 
+TXT059;-;y;y;Output information...;Output information...;Informações de saída…
+TXT060;-;y;y;Directory with generated files: ;Directory with generated files: ;Pasta com os arquivos gerados: 
+TXT061;-;y;y;OSM File with the result of appending: ;OSM File with the result of appending: ;Arquivo OSM com o resultado da anexação: 
+TXT062;-;y;y;CSV File with statistics of appending: ;CSV File with statistics of appending: ;Arquivo CSV com estatística da anexação: 
+TXT063;-;y;y;Log file (this one): ;Log file (this one): ;Arquivo LOG (este próprio): 
+TXT064;-;y;y;Final result... ;Final result... ;Resultado final… 
+TXT065;-;y;y; objects modified: ; objects modified: ; objetos modificados: 
+TXT066;-;y;y; nodes, ; nodes, ; nodes, 
+TXT067;-;y;y; ways and ; ways and ; ways e 
+TXT068;-;y;y; relations); relations); relations)
+TXT069;-;y;y;Select OSM File;Select OSM File;Selecione o arquivo OSM
+TXT070;-;y;y;Select CSV File;Select CSV File;Selecione o arquivo CSV
+TXT071;-;y;y;One or more errors was found at trying to use CSV File:;One or more errors was found at trying to use CSV File:\n;Um ou mais erros foram encontrados ao tentar usar o arquivo CSV:
+TXT072;-;y;y;01 - All the rows have to have the same number of columns.\nMake sure to select the correct delimiter and quote char. If the set quote char is an empty value, it will not recognize any other quote char inside the CSV file.;01 - All the rows have to have the same number of columns.\nMake sure to select the correct delimiter and quote char. If the set quote char is an empty value, it will not recognize any other quote char inside the CSV file.;01 – Todas as linhas precisam ter o mesmo número de colunas. Certifique-se de selecionar os delimitadores corretos. Se o delimitador de texto configurado é um valor vazio, ele não irá reconhecer qualquer outro delimitador dentro do arquivo CSV.
+TXT073;-;y;y;02 - The selected field can not be used as primary key because there are rows with repeated values. Delete rows with empty value as well.;02 - The selected field can not be used as primary key because there are rows with repeated values. Delete rows with empty value as well.;02 – O campo selecionado não pode ser usado como chave primária porque há linhas com valores repetidos.  Exclua linhas com valores vazios também.
+TXT074;-;y;y;For more information, visit https://wiki.osm.org/wiki/OSM_CSV_Appender ;For more information, visit https://wiki.osm.org/wiki/OSM_CSV_Appender ;Para mais informações, acesse https://wiki.osm.org/wiki/OSM_CSV_Appender 
+TXT075;-;y;y;Select output folder;Select output folder;Selecione a pasta de saída
+TXT076;-;y;y;Time of execution: ;Time of execution: ;Tempo de execução: 
+TXT077;;;;;;
+TXT078;;;;;;
+TXT079;;;;;;
+TXT080;;;;;;
+TXT081;;;;;;
+TXT082;;;;;;
+TXT083;;;;;;
+TXT084;;;;;;
+TXT085;;;;;;
+TXT086;;;;;;
+TXT087;;;;;;
+TXT088;;;;;;
+TXT089;;;;;;
+TXT090;;;;;;
+TXT091;;;;;;
+TXT092;;;;;;
+TXT093;;;;;;
+TXT094;;;;;;
+TXT095;;;;;;
+TXT096;;;;;;
+TXT097;;;;;;
+TXT098;;;;;;
+TXT099;;;;;;
